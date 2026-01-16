@@ -1,0 +1,27 @@
+# Day 03 – Number Guessing Game 🎯
+
+## Topics Covered
+- Random number generation using `random` module
+- Conditional statements (if-else)
+- Loops
+- User input handling
+
+---
+
+## Mini Project
+
+### Number Guessing Game
+- Computer generates a random number
+- User tries to guess the number
+- User gets **3 chances** to guess the number
+- If guessed number is correct → **You Win**
+- If wrong → **You Lost**
+- Remaining attempts are displayed after each guess
+
+
+---
+
+## Learning Outcome
+- Improved logical thinking
+- Better understanding of loops and conditions
+- Hands-on practice with a small project
